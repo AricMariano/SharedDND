@@ -1,0 +1,16 @@
+GIT NOOB COMMANDS
+
+1. git checkout master
+2. git fetch
+3. git pull origin master
+this updates folder
+4. git checkout -b mybranch
+5. git add filename as many as i need
+6. git commit -m "notes for update" (m for message) only commit once for errthing
+7. git push origin branchname
+8. go to github pull request
+9. wait on review. review for joe. never merge own code
+10. git checkout master
+11. git fetch
+12. git pull origin master
+rinse and repeat
